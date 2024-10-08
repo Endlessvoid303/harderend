@@ -1,0 +1,4 @@
+name: endfight
+version: '1.0-SNAPSHOT'
+main: test.endlessvoid.endfight.Endfight
+api-version: '1.21'

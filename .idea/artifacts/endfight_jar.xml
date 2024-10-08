@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="endfight:jar">
+    <output-path>$USER_HOME$/Desktop/codingplugintest/plugins</output-path>
+    <root id="archive" name="endfight.jar">
+      <element id="module-output" name="endfight" />
+    </root>
+  </artifact>
+</component>
